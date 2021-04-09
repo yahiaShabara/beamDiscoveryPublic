@@ -61,7 +61,7 @@ The DNN models we trained and used in our paper are made available online so res
  1. For single-path channels ($k\leq1$ path) with $n_r = 15$ receive
     antennas and $n_t = 31$ transmit antennas, the models can be found [here](https://drive.google.com/file/d/1TjM0aIYAm4YdUivvyPI83Uj729T0Xaft/view?usp=sharing).
  2.  For multi-path channels ($k\leq3$ paths) with $n_r = 23$ receive
-    antennas and $n_t = 23$ transmit antennas, the models can be found [here](https://drive.google.com/file/d/1cOjbHmGLdKijKCp9RCD5p15jERSf2AKv/view?usp=sharing).
+    antennas and $n_t = 23$ transmit antennas, the models can be found [here](https://drive.google.com/file/d/1ulUFp6YX4Y-2zfZC-w4PDV0uusgDfSr1/view?usp=sharing).
  3.  For multi-path channels ($k\leq3$ paths) with $n_r = 15$ receive
     antennas and $n_t = 32$ transmit antennas, the models can be found [here](https://drive.google.com/file/d/1NDWXW0GsWdf1ZxTB5kcKVA0q7gaxKIdk/view?usp=sharing).
 
