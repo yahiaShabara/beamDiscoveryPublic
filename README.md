@@ -3,15 +3,13 @@ This repository contains the simulation codes for our [paper](https://arxiv.org/
 
 *If you find this code helpful or used it in your work, please cite this work:*
 
-
-> @article{shabara2019source,  
-> title={Source Coding Based Millimeter-Wave Channel Estimation with Deep Learning Based Decoding},  
-> author={Shabara, Yahia and Ekici, Eylem and Emre Koksal, C},  
-> journal={arXiv e-prints},  
-> pages={arXiv--1905},  
-> year={2019}}
-
-
+> @ARTICLE{9402792,
+> author={Shabara, Yahia and Ekici, Eylem and Emre Koksal, C.},
+> journal={IEEE Transactions on Communications}, 
+> title={Source Coding Based Millimeter-Wave Channel Estimation with Deep Learning Based Decoding}, 
+> year={2021},
+> doi={10.1109/TCOMM.2021.3072999}}
+  
 
 ## Description
 This software simulates the process of channel estimation in sparse large-MIMO radio environments using a Binary Coding measurement Framework. 
